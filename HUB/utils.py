@@ -4,7 +4,7 @@ from mysql.connector import Error
 
 HOST_NAME = "localhost"
 USER_NAME = "root"
-USER_PASSWORD = """Hv9%v8&$?y4Ej!_"""
+USER_PASSWORD = """********"""
 
 
 def print_error(error):
