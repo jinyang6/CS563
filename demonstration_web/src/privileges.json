@@ -1,0 +1,14 @@
+[
+        {
+            "iot_device_ID": "Smart_lock",
+            "action_ID": "check_battery()"
+        },
+        {
+            "iot_device_ID": "Smart_Window",
+            "action_ID": "check_status()"
+        },
+        {
+            "iot_device_ID": "Tesla_Y",
+            "action_ID": "check_battery()"
+        }
+]
